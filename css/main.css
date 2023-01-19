@@ -894,7 +894,7 @@ img {
   bottom: 0;
   background-color: #000;
   opacity: 0.9;
-  z-index: 98;
+  z-index: 9998;
   display: none;
 }
 
@@ -906,7 +906,7 @@ img {
   top: 150px;
   left: 50%;
   transform: translateX(-50%);
-  z-index: 99;
+  z-index: 9999;
   display: none;
 }
 .search-sec.active .search-cont {
